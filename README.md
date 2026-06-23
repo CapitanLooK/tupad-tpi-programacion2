@@ -148,7 +148,6 @@ java -cp out tpi.Main
 └── out/                       # Clases compiladas (generada al compilar)
 ```
 
-
 ## Link al video de Youtube
 
 https://youtu.be/q98aaIOwvXs
